@@ -1,0 +1,2 @@
+# snowflakefile-example
+Example project
